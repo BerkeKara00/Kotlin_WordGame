@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/orange" /> <!-- Arka plan rengi -->
+    <corners android:radius="20dp" /> <!-- Yuvarlak köşe yarıçapı, istediğiniz değeri kullanabilirsiniz -->
+</shape>

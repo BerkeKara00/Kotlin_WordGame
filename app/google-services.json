@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506814154858",
+    "project_id": "onlinewordgame-4776f",
+    "storage_bucket": "onlinewordgame-4776f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506814154858:android:20411add5e2c7406de2213",
+        "android_client_info": {
+          "package_name": "com.example.onlinewordgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pRY-56DySKAn1t38yfHGncWgNQsDm_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
